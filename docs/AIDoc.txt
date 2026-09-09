@@ -1,0 +1,15 @@
+## Demo Prompt
+-> Explore the saucedemo website and write comprehensive test plan for given
+website. the plan file must be under docs folder
+https://www.saucedemo.com/
+
+## Test File creation
+-> Start implementation of the ### 1. Authentication and Session Management
+
+- Create a Page Model framework.
+- POM Folder structure should be testdata, tests, pages, fixture, utils.
+- All tests should be under tests/ files and all other files and folder should be under PlaywrightAI/ folder
+
+## Creating Custom Agent
+-> Playwright automation project reviewer as per industry standard
+that can help to improve the automation framework quality
